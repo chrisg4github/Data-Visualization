@@ -1,7 +1,7 @@
 # Data-Visualization
 
-Data visualization working directory for Data Analytics class.
+Data visualization Weather project.
 
-- weather - Jupyter Notebooks, DataFrame.plot(), Flask API, Data Analysis.
+- Weather - Jupyter Notebooks, DataFrame.plot(), Flask API, Data Analysis.
 
 
