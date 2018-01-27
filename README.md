@@ -2,6 +2,6 @@
 
 Data visualization Weather project.
 
-- Weather images, HTML, CSS, JavaScript, Jquery.
+- Weather images, Bootstrap, HTML, CSS, JavaScript, Jquery.
 
 
