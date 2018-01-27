@@ -2,6 +2,6 @@
 
 Data visualization Weather project.
 
-- Weather - Jupyter Notebooks, DataFrame.plot(), Flask API, Data Analysis.
+- Weather images, HTML, CSS, JavaScript, Jquery.
 
 
